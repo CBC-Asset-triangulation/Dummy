@@ -1,5 +1,4 @@
-Test 1
-test 2
+
 #Dummy.js
 * * *
 Simple testing of node tcp/tls servers.
