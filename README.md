@@ -1,4 +1,4 @@
-Testing 5/7 - 6/7 - 24/7
+Testing
 #Dummy.js
 * * * 4012 **** ***** 88888
 Simple testing of node tcp/tls servers.
